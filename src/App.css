@@ -1,33 +1,79 @@
+html {
+  scroll-behavior: smooth;
+
+  background: linear-gradient(
+    to bottom,
+    red,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue
+  ); /* Standard syntax (must be last) */
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.next-link-container {
+  display: flex;
+  justify-content: center;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.next-link {
+  transform: rotate(90deg);
+  display: block;
+  width: fit-content;
+}
+
+.fist-container {
+  height: 100vh;
   display: flex;
+  justify-content: space-around;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+a {
+  text-decoration: none;
+}
+
+form {
+  padding: 1em;
+  background-color: cyan;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+a, h1 {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+h1, .next-link {
+  font-size: 10em;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h1 {
+  margin: 1rem;
+}
+
+.back-to-top {
+  font-size: 2em;
+}
+
+img {
+  border: 2px solid white;
+  margin-bottom: 2em;
+  height: 40vh;
+  max-width: 80%;
+}
+
+.random-giphy button {
+  font-size: 2em;
+  background: transparent;
+  border: none;
+  cursor: pointer;
 }
