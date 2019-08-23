@@ -2,6 +2,7 @@
   "name": "fist-of-five",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chronick.github.io/fist-of-five/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
