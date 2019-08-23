@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.eee0177c.chunk.css",
-    "main.js": "/static/js/main.683b9edc.chunk.js",
-    "main.js.map": "/static/js/main.683b9edc.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.2a809a0b.js",
-    "runtime~main.js.map": "/static/js/runtime~main.2a809a0b.js.map",
-    "static/js/2.a52f8158.chunk.js": "/static/js/2.a52f8158.chunk.js",
-    "static/js/2.a52f8158.chunk.js.map": "/static/js/2.a52f8158.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5255307c751982a8b8d3bb4aecf83e26.js": "/precache-manifest.5255307c751982a8b8d3bb4aecf83e26.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.eee0177c.chunk.css.map": "/static/css/main.eee0177c.chunk.css.map"
+    "main.css": "/fist-of-five/static/css/main.eee0177c.chunk.css",
+    "main.js": "/fist-of-five/static/js/main.146f872c.chunk.js",
+    "main.js.map": "/fist-of-five/static/js/main.146f872c.chunk.js.map",
+    "runtime~main.js": "/fist-of-five/static/js/runtime~main.45c49734.js",
+    "runtime~main.js.map": "/fist-of-five/static/js/runtime~main.45c49734.js.map",
+    "static/js/2.a26aff43.chunk.js": "/fist-of-five/static/js/2.a26aff43.chunk.js",
+    "static/js/2.a26aff43.chunk.js.map": "/fist-of-five/static/js/2.a26aff43.chunk.js.map",
+    "index.html": "/fist-of-five/index.html",
+    "precache-manifest.de6a9f1cb2957058d87af48078d67c8d.js": "/fist-of-five/precache-manifest.de6a9f1cb2957058d87af48078d67c8d.js",
+    "service-worker.js": "/fist-of-five/service-worker.js",
+    "static/css/main.eee0177c.chunk.css.map": "/fist-of-five/static/css/main.eee0177c.chunk.css.map"
   }
 }
